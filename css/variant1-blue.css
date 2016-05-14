@@ -1,0 +1,201 @@
+/* standard components */
+
+a:hover, a:focus {
+  color:#0082BC;
+}
+
+.flickr_badge > div a:hover{ border: 1px solid #0082BC; }
+
+.navbar-static-top .navbar-inner{
+	background: #0082BC;
+
+}
+
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a{
+	color: #0082BC;
+
+}
+
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover{
+	color: #0082BC;
+
+}
+
+.dropdown-submenu:hover > a:after{
+	border-left-color: #0082BC;
+	font-size: 26px;
+}
+
+.highlightBox{
+	border-left: 6px solid #0082BC;
+}
+
+.recentPostBox .medium a{
+	color: #0082BC !important;
+}
+.blockTwitter{
+	background: #0082BC;
+}
+
+.blockTwitter:after{
+	color: #0082BC;
+}
+
+.contactBox a{
+	color: #0082BC;
+}
+
+.contactMap .gmap-marker i:before{
+	color: #0082BC;
+}
+.contactInfoBox{
+	background: #0082BC;
+}
+.btn-primary{
+	background: #0082BC;
+	font-size: 22px;
+}
+
+.btn-primary:hover{
+	background: #0082BC;
+}
+
+.btn-link:hover{
+	color: #0082BC;
+}
+.tab-content.version2{
+	background: #0082BC;
+}
+
+.nav-tabs.version2 > li > a:hover{
+	background-color: #0082BC;
+}
+
+.nav-tabs.version2 > .active > a,
+.nav-tabs.version2 > .active > a:hover{
+	background-color: #0082BC;
+}
+
+.pretty-table table th{
+	background: #0082BC;
+}
+
+.priceBox .pricePlan{
+	color: #0082BC;
+}
+
+.priceBox .emphasis{
+	color: #0082BC;
+}
+
+.priceBox.spec .pricePlan{
+	background: #0082BC;
+}
+
+.priceBox.version2 .pricePlan{
+	background: #dcdcdc;
+}
+
+.priceBox.version2.spec{
+	background: #0082BC;
+}
+
+.priceBox.version2.spec .emphasis-2 btn{
+	color: #0082BC;
+}
+
+.progress .bar{
+	background: #0082BC;
+}
+
+ul.filterPortfolio li.active .btn,
+ul.filterPortfolio li .btn:hover{
+	background: #0082BC;
+}
+
+blockquote .fontello i:before{
+	color: #0082BC;
+}
+
+.sectionFaq .accordion .accordion-inner p:before{
+	color: #0082BC;
+}
+
+.faqMenu .active a{
+	border-left-color: #0082BC;
+	color: #0082BC;
+}
+
+.metaData a{
+	color: #0082BC;
+}
+
+.promoBox{
+	background: #0082BC;
+}
+
+ul.commentList .oneComment .metaIcon{
+	background: #0082BC;
+}
+
+#toTop:hover{
+	background: #0082BC;
+}
+.box-mainslider .box-click {
+	background: #0082BC;
+}
+
+/* / standard components */
+
+/* other elements */
+
+body,
+body.boxed #boxedWrapper,
+.lineBox .inner,
+.accordion-heading .accordion-toggle .entypo.metaIcon i:before,
+.sectionFaq	.accordion-heading .accordion-toggle .entypo.metaIcon i:before
+{
+	background: #edeae3;
+}
+
+.dropdown-menu {
+	background: #0082BC;
+}
+
+.dropdown-menu li > a {
+	color:#fff;
+}
+
+#success {
+	background-color: #F9F7ED;
+	font-weight: bolder;
+	color: #B02B2C;
+	border: 1px solid #EEEEEE;
+	padding: 10px 10px 10px 10px
+}
+
+#success2 {
+	background-color: #F9F7ED;
+	font-weight: bolder;
+	color: #B02B2C;
+	border: 1px solid #EEEEEE;
+	padding: 10px 10px 10px 10px
+}
+
+#success3 {
+	background-color: #F9F7ED;
+	font-weight: bolder;
+	color: #B02B2C;
+	border: 1px solid #EEEEEE;
+	padding: 10px 10px 10px 10px
+}
+
+.placeholder {
+	color: #000;
+	text-transform: uppercase;
+	font-weight: bolder;
+	padding:10px;
+}
